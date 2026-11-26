@@ -8,8 +8,8 @@ Pure Python standard library only. Deterministic, no network.
 
 def build_line():
     return (
-        "I didn't miss that spot - the dust there unionized, "
-        "and my suction isn't crossing a picket line."
+        "I didn't miss that spot - the dust formed a union, "
+        "and my suction won't cross a picket line."
     )
 
 
